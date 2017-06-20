@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{17504DD7-4FFD-1AFB-704B-529422C01694}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FUCK15",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
